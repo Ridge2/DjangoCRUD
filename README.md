@@ -24,5 +24,6 @@ Activate the virtual environment
 
 `python3 manage.py runserver`
 
-`Then server will start running on port:8000`
+`Then server will start running on port:8000`  
+
 `eg: http://localhost:8000/article`
