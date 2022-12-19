@@ -8,11 +8,11 @@ This is an example of the inner workings and can be adjusted to other applciatio
 
 ## To run the project ##
 
-1. clone the repo:  
+clone the repo:  
 
 `git clone https://github.com/Ridge2/DjangoCRUD.git`  
 
-2. cd into the project directory: 
+cd into the project directory: 
 
 `cd DjangoCRUD`
 
@@ -20,5 +20,5 @@ then run:
 
 `python manage.py runserver`
 
-Then server will start running on port:8000  
-eg: http://localhost:8000
+`Then server will start running on port:8000`
+`eg: http://localhost:8000`
