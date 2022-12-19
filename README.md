@@ -2,7 +2,7 @@
 CRUD operations in Django  
 This project demostrates the inner workings of CRUD applications using Django and the Django REST Framework.  
 
-Django is a python web framework built for rapid web development and Django REST Frameowrk is used for making api request calls and supports CRUD operations.
+Django is a python web framework built for rapid web development and Django REST Frameowrk is used for making api request calls and it supports CRUD operations.
 
 This is an example of the inner workings and can be adjusted to other appilcations.
 
