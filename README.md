@@ -8,15 +8,15 @@ This is an example of the inner workings and can be adjusted to other applciatio
 
 ## To run the project ##
 
-clone the repo:  
+1.Clone the repo:  
 
 `git clone https://github.com/Ridge2/DjangoCRUD.git`  
 
-cd into the project directory: 
+2.cd into the project directory: 
 
 `cd DjangoCRUD`
 
-then run: 
+3.Run: 
 
 `python manage.py runserver`
 
