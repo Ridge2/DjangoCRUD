@@ -6,7 +6,7 @@ Django is a python web framework built for rapid web development and Django REST
 
 This is an example of the inner workings and can be adjusted to other applciations.
 
-## To run the project ##
+## To run the project
 
 1.Clone the repo:  
 
@@ -16,9 +16,13 @@ This is an example of the inner workings and can be adjusted to other applciatio
 
 `cd DjangoCRUD`
 
+Activate the virtual environment
+
+`source article/bin/activate`
+
 3.Run: 
 
 `python manage.py runserver`
 
 `Then server will start running on port:8000`
-`eg: http://localhost:8000`
+`eg: http://localhost:8000/article`
