@@ -280,6 +280,7 @@
         search_term: '',
       },
       mounted: function() {
+        // Must be mounted to get the articles that are already added on loading.
         this.getArticles();
       },
       methods: {
