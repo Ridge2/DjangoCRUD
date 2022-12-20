@@ -10,19 +10,23 @@ This is an example of the inner workings and can be adjusted to other appilcatio
 
 1.Clone the repo:  
 
-`git clone https://github.com/Ridge2/DjangoCRUD.git`  
+`$ git clone https://github.com/Ridge2/DjangoCRUD.git`  
 
 2.cd into the project directory: 
 
-`cd DjangoCRUD`
+`$ cd DjangoCRUD`
+
+3.Create virtual environment
+
+`$ python3 -m venv article`
 
 Activate the virtual environment
 
-`source article/bin/activate`
+`$ source article/bin/activate`
 
 3.Run: 
 
-`python3 manage.py runserver`
+`$ python3 manage.py runserver`
 
 ### Then server will start running on port:8000     
 
